@@ -1,6 +1,6 @@
 # Aryabot-Python
 
-PC/Mac version of Aryabot. (Testing)
+Linux/Mac/PC version of Aryabot. (Testing)
 
 # License
 
